@@ -19,8 +19,6 @@ This project contains an implementation of Logistic Regression and Support Vecto
 
 ---
 
-## Files in the Repository
-
 - **`script.py`**: Python script containing:
   - Functions for data preprocessing, training, and prediction.
   - Logistic Regression implementation.
