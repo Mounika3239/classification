@@ -6,7 +6,7 @@ This project contains an implementation of Logistic Regression and Support Vecto
 
 ## Project Overview
 
-### Key Features:
+### Implementation Details:
 - **Logistic Regression**:
   - Binary and Multi-class Logistic Regression implemented using gradient descent.
   - Performance evaluated across training, validation, and test datasets.
